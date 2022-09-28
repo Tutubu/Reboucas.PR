@@ -1,0 +1,47 @@
+/*
+1920 x 780
+*/
+body 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
+    
+    margin: 0 auto;
+    background: #2D2F59
+}
+header
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 0px;
+}
+.cabecalho
+{
+    width: 20%;
+    height: 780px;
+    background-color: white;
+}
+.logo img 
+{
+    width: 100%;
+    padding-top: 20px;
+}
+.rodape
+{
+    color: darkgray;
+    font-size: 10px;
+    text-align: center;
+    padding: 20px;
+}
+.navegacao
+{
+    overflow: hidden;
+}
+.navegacao a
+{
+    float: left;
+    color: rgb(20, 20, 20);
+    text-decoration: none;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    display: block;
+}
