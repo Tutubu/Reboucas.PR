@@ -16,20 +16,13 @@ header
 .cabecalho
 {
     width: 20%;
-    height: 780px;
+    height: 789px;
     background-color: white;
 }
 .logo img 
 {
     width: 100%;
-    padding-top: 20px;
-}
-.rodape
-{
-    color: darkgray;
-    font-size: 10px;
-    text-align: center;
-    padding: 20px;
+    padding-top: 10px;
 }
 .navegacao
 {
@@ -41,7 +34,21 @@ header
     color: rgb(20, 20, 20);
     text-decoration: none;
     padding: 10px;
-    width: 100%;
+    width: 75%;
     text-align: center;
     display: block;
+}
+.conteudo
+{
+    width: 80%;
+    position: absolute;
+    left: 20%;
+    bottom: 0%;
+}
+.rodape
+{
+    color: darkgray;
+    font-size: 10px;
+    text-align: center;
+    padding: 20px;
 }
