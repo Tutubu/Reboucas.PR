@@ -15,8 +15,8 @@ header
 }
 .cabecalho
 {
-    width: 20%;
-    height: 788px;
+    width: 15%;
+    height: 799px;
     background-color: white;
 }
 .logo img 
@@ -41,15 +41,15 @@ header
 .conteudo
 {
     color: rgb(196, 196, 196);
-    width: 80%;
+    width: 95%;
     height: 788px;
     position: absolute;
-    left: 20%;
+    left: 15%;
     top: 0%;
 }
 .principal img
 {
-    width: 100%;
+    width: 60%;
 }
 .rodape
 {
