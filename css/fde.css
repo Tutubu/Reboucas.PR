@@ -40,15 +40,23 @@ header
 }
 .conteudo
 {
-    color: darkgray;
+    color: rgb(196, 196, 196);
     width: 80%;
+    height: 788px;
     position: absolute;
     left: 20%;
-    bottom: 0%;
+    top: 0%;
+}
+.principal img
+{
+    width: 100%;
 }
 .rodape
 {
     color: darkgray;
     font-size: 10px;
+    width: 100%;
     text-align: center;
+    position: absolute;
+    bottom: 0%;
 }
