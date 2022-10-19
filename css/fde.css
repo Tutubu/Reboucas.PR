@@ -54,6 +54,15 @@ header
 {
     text-align: center;
 }
+.texto a
+{
+    color: rgb(196,196,196);
+    text-decoration: none;
+}
+.texto a:hover
+{
+    color: rgb(209, 53, 53);
+}
 .texto
 {
     padding-left: 15px;
